@@ -1,10 +1,10 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
+	url = ../tt-gcc-riscv-binutils.git
 	branch = binutils-2_39-branch
 [submodule "gcc"]
 	path = gcc
-	url = https://gcc.gnu.org/git/gcc.git
+	url = ../tt-gcc-riscv-gcc.git
 	branch = releases/gcc-12.1.0
 [submodule "glibc"]
 	path = glibc
