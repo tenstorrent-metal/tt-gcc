@@ -1,10 +1,10 @@
 [submodule "riscv-binutils"]
 	path = riscv-binutils
-	url = ../tt-gcc-riscv-binutils.git
+	url = ../sfpi-binutils.git
 	branch = riscv-binutils-2.36.1
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = ../tt-gcc-riscv-gcc.git
+	url = ../sfpi-gcc.git
 	branch = riscv-gcc-10.2.0
 [submodule "riscv-glibc"]
 	path = riscv-glibc
