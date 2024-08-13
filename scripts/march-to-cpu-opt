@@ -15,7 +15,7 @@ EXT_OPTS = {
   "zfhmin":             "Zfhmin=true",
 }
 
-SUPPORTTED_EXTS = "iemafdcbvph"
+SUPPORTTED_EXTS = "iemafdcbvphu"
 MC_EXT_PREFIX = "zsx"
 
 def parse_opt(argv):
